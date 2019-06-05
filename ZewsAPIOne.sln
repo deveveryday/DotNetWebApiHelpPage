@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZewsAPIOne", "ZewsAPIOne\ZewsAPIOne.csproj", "{B56583C6-D8F2-4DFA-9641-AB6E79265535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZewsAPIOne.Tests", "ZewsAPIOne.Tests\ZewsAPIOne.Tests.csproj", "{2B994BC1-88C5-40FF-ACD2-509ECDA6357E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56583C6-D8F2-4DFA-9641-AB6E79265535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56583C6-D8F2-4DFA-9641-AB6E79265535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56583C6-D8F2-4DFA-9641-AB6E79265535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56583C6-D8F2-4DFA-9641-AB6E79265535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B994BC1-88C5-40FF-ACD2-509ECDA6357E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B994BC1-88C5-40FF-ACD2-509ECDA6357E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B994BC1-88C5-40FF-ACD2-509ECDA6357E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B994BC1-88C5-40FF-ACD2-509ECDA6357E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {923F46D0-8EC5-4336-91F9-E7268F2C47DC}
+	EndGlobalSection
+EndGlobal
